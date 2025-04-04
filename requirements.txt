@@ -1,0 +1,20 @@
+# Dependencias principales
+python-dotenv>=1.0.0
+openai>=1.0.0
+langchain>=0.0.267
+langchain-openai>=0.0.2
+pydantic>=2.0.0
+SQLAlchemy>=2.0.0
+
+# Procesamiento de documentos
+pypdf>=3.15.1
+unstructured>=0.10.0
+tiktoken>=0.5.1
+
+# Integración con plataformas de mensajería
+python-telegram-bot>=20.3
+twilio>=8.5.0  # Para WhatsApp
+
+# Utilidades
+tqdm>=4.66.1
+colorama>=0.4.6
