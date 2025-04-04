@@ -2,7 +2,7 @@
 
 DocuBot es un bot inteligente basado en Python que utiliza la API de OpenAI para responder preguntas basadas en documentos PDF. Puede integrarse con WhatsApp, Telegram o ambos, según tus necesidades.
 
-![DocuBot Logo](docs/images/docubot_logo.png)
+
 
 ## Características
 
